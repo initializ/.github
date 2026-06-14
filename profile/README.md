@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/assets/initializ-logo.png" alt="initializ" height="64" />
+<img src="./assets/initializ-logo.png" alt="initializ" height="64" />
 
 ### The enterprise control plane for AI agents
 
